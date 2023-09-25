@@ -1,0 +1,3 @@
+/media/davi/LINUX/DESENVOLVIMENTO/c++/initcash/server/build/CMakeFiles/main.dir
+/media/davi/LINUX/DESENVOLVIMENTO/c++/initcash/server/build/CMakeFiles/edit_cache.dir
+/media/davi/LINUX/DESENVOLVIMENTO/c++/initcash/server/build/CMakeFiles/rebuild_cache.dir
